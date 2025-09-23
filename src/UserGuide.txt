@@ -1,0 +1,8 @@
+To play the maze manually, the player can use the arrowkeys to search the maze.
+To initiate DFS or BFS, the player can press the D or B keys respectively.
+To restart the search of the current maze, the player can press the C key.
+To generate a new maze, the player can press the N key. 
+To toggle the display of seen tiles (cyan) the player can press the S key.
+To display a color gradient of the tiles' distances from the start, the player can press the 1 key.
+To display a color gradient of the tiles' distances from the end, the player can press the 9 key.
+To clear the screen of these gradients, the player can press the K key.
